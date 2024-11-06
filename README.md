@@ -39,7 +39,7 @@ Requisitos
 Instalação
 
 1- Clone o repositório:
-git clone https://github.com/PedroOLiveira-dev/projetoWebApi.git
+git clone https://github.com/PedroOliveira-dev/projetoWebApi.git
 cd projetoWebApi
 
 2- Instale as dependências: O projeto já contém as dependências definidas no arquivo .csproj, mas para garantir que todas as dependências estejam atualizadas, execute:
