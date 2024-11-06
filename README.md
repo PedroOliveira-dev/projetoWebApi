@@ -13,17 +13,17 @@ Estrutura do Projeto
 
 A estrutura do projeto segue o padrão de uma Web API simples com a separação de responsabilidades entre as camadas:
 
-ProjetoWebApi/
-├── ProjetoWebApi/
-│   ├── Program.cs           # Configuração e inicialização da aplicação
-│   ├── Services/            # Contém interfaces e implementações de serviços
-│   │   ├── IUsuarioInterface.cs # Interface para serviço de usuários
-│   │   └── UsuarioService.cs   # Implementação do serviço de usuários
-│   ├── Dto/                 # Contém os Data Transfer Objects (DTOs)
-│   │   └── UsuarioListarDto.cs # DTO para listar usuários
-│   └── Models/              # Contém os modelos de dados
-│       └── Usuario.cs       # Modelo de usuário
-└── ProjetoWebApi.csproj     # Arquivo de configuração do projeto
+ProjetoWebApi/                                                                                                                                                                                                  
+├── ProjetoWebApi/                                                                                                                                                                                              
+│   ├── Program.cs           # Configuração e inicialização da aplicação                                                                                                                                        
+│   ├── Services/            # Contém interfaces e implementações de serviços                                                                                                                                   
+│   │   ├── IUsuarioInterface.cs # Interface para serviço de usuários                                                                                                                                           
+│   │   └── UsuarioService.cs   # Implementação do serviço de usuários                                                                                                                                          
+│   ├── Dto/                 # Contém os Data Transfer Objects (DTOs)                                                                                                                                           
+│   │   └── UsuarioListarDto.cs # DTO para listar usuários                                                                                                                                                      
+│   └── Models/              # Contém os modelos de dados                                                                                                                                                       
+│       └── Usuario.cs       # Modelo de usuário                                                                                                                                                                
+└── ProjetoWebApi.csproj     # Arquivo de configuração do projeto                                                                                                                                               
 
 Funcionalidades
 
