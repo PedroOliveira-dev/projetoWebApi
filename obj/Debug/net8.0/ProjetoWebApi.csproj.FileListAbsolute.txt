@@ -1,0 +1,8 @@
+/home/pedro/ProjetoWebApi/ProjetoWebApi/obj/Debug/net8.0/ProjetoWebApi.csproj.AssemblyReference.cache
+/home/pedro/ProjetoWebApi/ProjetoWebApi/obj/Debug/net8.0/ProjetoWebApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/ProjetoWebApi/ProjetoWebApi/obj/Debug/net8.0/ProjetoWebApi.AssemblyInfoInputs.cache
+/home/pedro/ProjetoWebApi/ProjetoWebApi/obj/Debug/net8.0/ProjetoWebApi.AssemblyInfo.cs
+/home/pedro/ProjetoWebApi/ProjetoWebApi/obj/Debug/net8.0/ProjetoWebApi.csproj.CoreCompileInputs.cache
+/home/pedro/ProjetoWebApi/ProjetoWebApi/obj/Debug/net8.0/ProjetoWebApi.MvcApplicationPartsAssemblyInfo.cs
+/home/pedro/ProjetoWebApi/ProjetoWebApi/obj/Debug/net8.0/ProjetoWebApi.MvcApplicationPartsAssemblyInfo.cache
+/home/pedro/ProjetoWebApi/ProjetoWebApi/obj/Debug/net8.0/ProjetoWebApi.sourcelink.json
